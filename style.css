@@ -76,10 +76,10 @@ nav li {
 }
 
 nav li:hover{
-    background-color: var(--color3);
+    background-color: white;
 
     a{
-        color: var(--color1)
+        color: red;
     }
 }
 
